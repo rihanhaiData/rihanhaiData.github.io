@@ -1,5 +1,8 @@
 backend:
   name: github
-  repo: RihanHai/rihanhaiData
-  branch: main
+  repo: rihanhaiData/rihanhaiData.github.io
+  branch: master   # or 'main' if your default branch is main
   base_url: https://decap-proxy.rihanhai.workers.dev
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
