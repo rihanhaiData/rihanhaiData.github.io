@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: RihanHai/rihanhaiData
+  branch: main
+  base_url: https://decap-proxy.rihanhai.workers.dev
